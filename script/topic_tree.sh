@@ -11,4 +11,4 @@ java -cp HLTA.jar:HLTA-deps.jar tm.hlta.ExtractTopicTree batch model_full_batch.
 
 # step version (10000 sampled data cases, 1000 minibatch size)
 echo "*************** hlta_model_step **************"
-java -cp HLTA.jar:HLTA-deps.jar tm.hlta.ExtractTopicTree full model_full_step.bif ./words/full/sample.sparse.txt
+java -cp HLTA.jar:HLTA-deps.jar tm.hlta.ExtractTopicTree step model_full_step.bif ./words/full/sample.sparse.txt

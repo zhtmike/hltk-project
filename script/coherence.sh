@@ -11,4 +11,4 @@ java -cp HLTA.jar:HLTA-deps.jar tm.hlta.TopicCoherence batch.nodes.json ./words/
 
 # step version (10000 sampled data cases, 1000 minibatch size)
 echo "*************** hlta_model_step **************"
-java -cp HLTA.jar:HLTA-deps.jar tm.hlta.TopicCoherence full.nodes.json ./words/full/sample.sparse.txt
+java -cp HLTA.jar:HLTA-deps.jar tm.hlta.TopicCoherence step.nodes.json ./words/full/sample.sparse.txt
