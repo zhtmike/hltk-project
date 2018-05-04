@@ -1,0 +1,6 @@
+HLTA_BATCH
+Time: 9708771 ms (20 cores)
+
+
+HLTA_STEP
+Time: 5691110 ms (20 cores)
