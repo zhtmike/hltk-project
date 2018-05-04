@@ -1,6 +1,11 @@
 HLTA_BATCH
 Time: 9708771 ms (20 cores)
+Loglikelihood: -505.9524566927883
+Coherence: -6.910790332062248
+Compactness 0.3425772746817868
 
-
-HLTA_STEP
+HLTA_STEP (10000 sampled data cases, 1000 minibatch size)
 Time: 5691110 ms (20 cores)
+Loglikelihood: -506.19881504096435
+Coherence: -6.875963621289372
+Compactness: 0.3471113782457883
